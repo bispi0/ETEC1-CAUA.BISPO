@@ -1,0 +1,18 @@
+aula do Juarez 
+
+(oque é uma variável?
+um espaço reservado para a memoria
+exemplo
+A,B,R = variável
+A = 10
+B = 5
+
+Variável | Memoria
+   A     |   10
+   B     |   5
+   R     |   15  
+
+reservei A para colocar o valor 10 na memoria)
+
+
+

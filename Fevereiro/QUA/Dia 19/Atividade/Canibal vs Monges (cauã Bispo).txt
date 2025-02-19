@@ -1,0 +1,20 @@
+C = Canibal 1,2,3
+M = Monge 1,2,3
+Margem A= margem da direita
+Margem B= margem da esquerda
+
+M1 e C1 indo para o B
+C1 para margem B
+M1 volta para a margem A
+C2 e C3 para a margem B
+C2 volta para a margem A
+M1 e M2 para a margem B
+C1 e M1 volta para a margem A
+M1 e M2 vai para a margem B
+C1 vai para a margem A
+C1 e C2 para a margem B
+C1 volta para a margem A
+C1 e C3 vai para a margem B
+Fim De Jogo
+
+Nome:Cauã Bispo Marcelo
