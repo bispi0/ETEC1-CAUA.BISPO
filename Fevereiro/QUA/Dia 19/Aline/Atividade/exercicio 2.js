@@ -1,0 +1,22 @@
+var num1 = 5;
+var num2 = 55;
+var num3 = 45;
+var num4 = 100;
+var num5 = 200;
+var num6 = 3;
+var soma = (num1 + num2);
+console.log(`${num1} mais ${num2} é igual a ${soma}`);
+var subtracao = (num1 - num2);
+var multiplicacao = (num1 * num2);
+var divisao1 = (num1 / num1);
+var divisao2 = (num1 / num6);
+console.log (`${num1} menos ${num2} é igual a ${subtracao}`);
+console.log (`${num1} vezes ${num2} é igual a ${multiplicacao}`);
+console.log (`${num1} divido por ${num1} é igual a ${divisao1}`);
+console.log (`${num1} divido por ${num6} é igual a ${divisao2}`);
+var potencia = (num1 ** num6);
+var raiz = Math.sqrt(25);
+console.log(raiz);
+console.log(potencia);
+var resto = (num1 % num6);
+console.log(resto)
