@@ -1,0 +1,3 @@
+if (executa um bloco de código se a expressão for verdadeira)
+else if (especifica uma nova condição se a primeira for falsa)
+else (executada se nenhuma condição anterior for verdadeira)

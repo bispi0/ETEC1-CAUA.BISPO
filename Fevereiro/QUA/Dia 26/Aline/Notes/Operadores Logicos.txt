@@ -1,0 +1,3 @@
+a++ = Pós Incremento
+++a = Pre Incremento
+--a = Pre Decremento

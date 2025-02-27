@@ -1,0 +1,12 @@
+var a = 5;
+console.log("Pre incremento",++a);
+console.log("Pre incremento",++a);
+console.log("Pre incremento",a++);
+console.log(a);
+console.log("Pre decremento",--a);
+console.log("Pre decremento",--a);
+console.log("5"==5);
+console.log("5"===5);
+console.log(5!=10);
+console.log("5"!=5);
+console.log("5"!==5);

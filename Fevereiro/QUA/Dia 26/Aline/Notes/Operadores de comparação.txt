@@ -1,0 +1,5 @@
+Igualdade = == (verifica se dois valores são iguais,sem considerar o tipo
+Igualdade Estrita = === (verifica se dois valores são iguais e do mesmo tipo)
+Diferente = != (verifica se dois valores são diferentes,sem considerar o tipo)
+Diferente Estrito = !== ( verifica se dois valores são diferentes e/ou de tipos diferentes)
+! = (sinal de negação,negativo,não)

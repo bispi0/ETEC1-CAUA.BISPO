@@ -1,0 +1,7 @@
+Adição = +
+Subtração = -
+Multiplicação = *
+Divisão = /
+Resto da divisão = %
+Raiz quadrada =	Math.sqrt()
+Potencia= **
